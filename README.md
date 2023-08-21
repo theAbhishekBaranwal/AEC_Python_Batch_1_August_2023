@@ -1,9 +1,9 @@
 # AEC_Python_Batch_1_August_2023
 
 **GitHub Link:**<br>
-https://github.com/toarnabtrainer/AEC_Python_Batch_2_August_2023<br>
+https://github.com/toarnabtrainer/AEC_Python_Batch_1_August_2023<br>
 **or**<br>
-https://tinyurl.com/yc6yznma
+https://tinyurl.com/47wtjb6n
 
 **Teams Link:** <br>
 https://tinyurl.com/2s3yxjnr
