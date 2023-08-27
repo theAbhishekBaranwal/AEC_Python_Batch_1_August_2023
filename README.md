@@ -27,6 +27,15 @@ https://www.onlinegdb.com/
 **Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
 **Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
 
+**Selenium Text Tutorial Link:**<br>
+https://www.javatpoint.com/selenium-tutorial<br>
+https://pythonspot.com/category/selenium/<br>
+https://readthedocs.org/projects/selenium-python/downloads/pdf/latest/
+
+**Selenium Video Tutorial Link:**<br>
+https://youtube.com/playlist?list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz<br>
+https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
+
 <hr>
 
 ### Features of Python
